@@ -1,4 +1,4 @@
-package BlueJack;
+package BlueJackGame;
 public class Card {
     private String color;
     private int value;

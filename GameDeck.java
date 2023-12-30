@@ -1,4 +1,4 @@
-package BlueJack;
+package BlueJackGame;
 import java.util.Random;
 public class GameDeck {
     private Card[] cards;
